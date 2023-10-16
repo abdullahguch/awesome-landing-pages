@@ -1,4 +1,4 @@
-# Landing Pages Repository
+# Awesome Landing Pages
 
 This repository contains six different landing pages, each organized within its respective folder.
 
